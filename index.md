@@ -29,7 +29,6 @@
 | Graduate Certificate in Journalism | The University of Queensland  | 2001 |
 | Diploma of Project Management | Australian Institute of Management | 2008 |
 | Master of Philosophy | The University of Queensland          | 2019 |
-| Diploma in Science (Graduate entry) | The University of Queensland          | 2023- |
 
 ## Awards
 - Fellow, Python Software Foundation, 2017.
@@ -45,7 +44,7 @@
 - Certified Software Carpentry / Data Carpentry instructor (2015).
 - Certified Software Carpentry instructor trainer (2016). 
 - Weekly Internet columnist, *The Courier-Mail*, 2001-2006.
-- Weaver’s Web columnist for the ALIA journal, *inCite*, 1997-2001. 
+- *Weaver’s Web* columnist for the ALIA journal, *inCite*, 1997-2001. 
 - Experienced book and copy editor.
 
 ## Selected publications
@@ -69,7 +68,7 @@
 | Queensland Performing Arts Trust | Acting Librarian/Archivist |  October - November, 1995 |
 | London Institute | Systems Assistant | 1993 -  1995 |
 | Central St Martin’s College of Art & Design | Bibliographic and Systems Librarian | 1992 |
-| VINE, a quarterly library automation journal | Editor | May, 1991 - March, 1992 |
+| *VINE*, a quarterly library automation journal | Editor | May, 1991 - March, 1992 |
 | Middlesex Polytechnic | Library Analyst and Training Officer | September, 1990 - April, 1991 |
 | BLCMP Library Services Ltd | Systems documentation writer | March, 1990 - June, 1990 |
 | Australian Film, Television and Radio School | Librarian | January, 1990 |
